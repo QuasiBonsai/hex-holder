@@ -1,1 +1,1 @@
-# hexagonal skirt nozzle holder [V0.2]
+# hexagonal skirt nozzle holder [Voron v0.2]
