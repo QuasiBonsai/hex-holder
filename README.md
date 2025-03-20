@@ -6,7 +6,7 @@ This is a fairly simple print for storing a revo nozzle. The sleeve is press-fit
 
 
 ![Screenshot 2025-02-23 001930](https://github.com/user-attachments/assets/341fb882-659f-42d5-82ec-86bf67d0c97a)
-
+CAD/STL has been updated, nozzle now sits a bit deeper in the holder and added more chamfers.
 These dimensions got me a reasonably good press-fit in the skirt. Feel free to request any modified dimensions and I can add variations.
 
 ![Screenshot 2025-02-23 002723](https://github.com/user-attachments/assets/207c9152-87ff-48af-92e3-f4f1cb694764)
