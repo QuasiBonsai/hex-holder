@@ -15,4 +15,3 @@ These dimensions got me a reasonably good press-fit in the skirt. Feel free to r
 
 ![Screenshot 2025-02-23 002723](https://github.com/user-attachments/assets/207c9152-87ff-48af-92e3-f4f1cb694764)
 
-![20250222_235957](https://github.com/user-attachments/assets/76e20b49-4103-460e-ac09-fb66e7202269)
