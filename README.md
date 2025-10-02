@@ -9,7 +9,7 @@ This is a simple print for storing a revo nozzle. The sleeve is press-fit into t
 
 ![Screenshot 2025-02-23 001930](https://github.com/user-attachments/assets/341fb882-659f-42d5-82ec-86bf67d0c97a)
 CAD/STL has since been updated, nozzle now sits a bit deeper in the holder and added more chamfers.
-After printing, insert a nozzle and whilst pushing it in gently, turn it clockwise. The nozzle will cut its own shallow threads in the holder, allowing it to hold the nozzle securely without the risk of it falling out. Simply unscrew to remove.
+Orient model with the opening on the build plate. After printing, insert a nozzle and whilst pushing it in gently, turn it clockwise. The nozzle will cut its own shallow threads in the holder, allowing it to hold the nozzle securely without the risk of it falling out. Simply unscrew to remove.
 
 These dimensions got me a reasonably good press-fit in the skirt. Feel free to request any modified dimensions and I can add variations.
 
